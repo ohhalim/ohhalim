@@ -1,20 +1,5 @@
 ## Hi there 👋
 
-hi i'm halim
-
-i just do one step
-
-
-
-
-
-
-
-
-
-
-
-
 <!--
 **ohhalim/ohhalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
