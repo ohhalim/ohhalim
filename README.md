@@ -11,7 +11,7 @@
 - [장고 컨트리뷰트 하기: ing](https://github.com/ohhalim/django) 
 - [장고 백엔드 테스트: ing](https://github.com/ohhalim/backend_test) 
 - [파이썬 언어 훈련: ing](https://github.com/ohhalim/baekjoonhub)
-- [AI 즉흥연주 개인프젝: ing](https://github.com/ohhalim/llm_rag_midi_improv)
+- [AI와 합주 and 즉흥연주 라이브 셋 개인프로젝트: ing](https://github.com/ohhalim/llm_rag_midi_improv)
 - [Titans 논문 시퀀스 모델링: ing](https://github.com/ohhalim/titans_in_transformers)
 
 
