@@ -6,6 +6,7 @@
 - [최종프로젝트 프론트: Done](https://github.com/K-MarkLee/MAIDDY_Front) 
 - [AI RAG 챗봇 팀프로젝트: Done](https://github.com/ohhalim/justonecat)
 
+---------------------------------------------------------------------
 
 - [장고 컨트리뷰트 하기: ing](https://github.com/ohhalim/django) 
 - [장고 백엔드 테스트: ing](https://github.com/ohhalim/backend_test) 
