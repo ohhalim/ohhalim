@@ -10,7 +10,6 @@
 
 - [api 문서 정보 모아둔 챗봇: ing](https://github.com/ohhalim/fastapi_llm_rag_search_bot ) 
 - [마젠타와 flstudio 엮은 즉흥연주 프로그램: ing](https://github.com/ohhalim/fastapi_llm_rag_mcp_flstudio_magenta) 
-- [파이썬 언어 훈련: ing](https://github.com/ohhalim/baekjoonhub)
 - [AI와 합주 and 즉흥연주 라이브 셋 개인프로젝트: ing](https://github.com/ohhalim/llm_rag_midi_improv)
 - [Titans 논문 시퀀스 모델링: ing](https://github.com/ohhalim/titans_in_transformers)
 
