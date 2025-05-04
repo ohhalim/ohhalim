@@ -1,4 +1,4 @@
-## 어쩌라고 별거아냐 가보자구 
+## 해보면 알아 닥치고 해보셈~~
 
 ## 프로젝트
 - [최종프로젝트 백엔드: Done](https://github.com/K-MarkLee/MAIDDY) 
@@ -8,8 +8,8 @@
 
 ---------------------------------------------------------------------
 
-- [장고 컨트리뷰트 하기: ing](https://github.com/ohhalim/django) 
-- [장고 백엔드 테스트하면서 구현하기: ing](https://github.com/ohhalim/backend_test) 
+- [api 문서 정보 모아둔 챗봇: ing](https://github.com/ohhalim/fastapi_llm_rag_search_bot ) 
+- [마젠타와 flstudio 엮은 즉흥연주 프로그램: ing](https://github.com/ohhalim/fastapi_llm_rag_mcp_flstudio_magenta) 
 - [파이썬 언어 훈련: ing](https://github.com/ohhalim/baekjoonhub)
 - [AI와 합주 and 즉흥연주 라이브 셋 개인프로젝트: ing](https://github.com/ohhalim/llm_rag_midi_improv)
 - [Titans 논문 시퀀스 모델링: ing](https://github.com/ohhalim/titans_in_transformers)
