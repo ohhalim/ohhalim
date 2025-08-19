@@ -9,7 +9,7 @@
 ---------------------------------------------------------------------
 
 
-- [화성코드 입력 시 SLLM이 RAG 기반으로 학습된 개인 MIDI 솔로 패턴을 FL Studio(작곡프로그램)로 즉흥연주 라인을 실시간 생성 및 출력](https://github.com/ohhalim/llm_fIstudio_mcp_rag_midi_Improvisation_program)
+- [화성코드 입력 시 SLLM이 RAG 기반으로 학습된 개인 MIDI 솔로 패턴을 FL Studio(작곡프로그램)로 실시간 생성 및 출력](https://github.com/ohhalim/llm_fIstudio_mcp_rag_midi_Improvisation_program)
 
 
 <!--
