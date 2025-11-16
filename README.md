@@ -11,7 +11,7 @@
 
 - [화성코드 입력 시 SLLM이 RAG 기반으로 학습된 개인 MIDI 솔로 패턴을 FL Studio(작곡프로그램)로 실시간 생성 및 출력](https://github.com/ohhalim/llm_fIstudio_mcp_rag_midi_Improvisation_program)
 - [MIDI 데이터 딥러닝 모델 art-tatum's solo Fine-tuning](https://github.com/ohhalim/fine_tuning_art-tatum_midi_solo)
-- [goolge magenta rt fine tuning] (https://github.com/ohhalim/realTimeDeepLearningModelFineTuning)
+- [goolge magenta rt fine tuning](https://github.com/ohhalim/realTimeDeepLearningModelFineTuning)
 
 <!--
 **ohhalim/ohhalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
