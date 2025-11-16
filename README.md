@@ -1,4 +1,4 @@
-## Rather than vague ambition, I aim to deliver results through consistent effort.
+## I aim to complete small tasks through consistent effort. rather than pursuing vague ambitions
 
 ## 프로젝트
 
