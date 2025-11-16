@@ -1,4 +1,4 @@
-## 막연한 야망보다는 일관된 노력을 통해 small task의 결과를 안정적으로 전달고자 합니다
+## Rather than vague ambition, I aim to deliver results through consistent effort.
 
 ## 프로젝트
 
