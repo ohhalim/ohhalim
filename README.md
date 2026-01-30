@@ -11,8 +11,6 @@
 | [MIDI 딥러닝 모델](https://github.com/ohhalim/fine_tuning_art-tatum_midi_solo) | Art Tatum's Solo Fine-tuning |
 | [이커머스 플랫폼](https://github.com/PRF-JAKODH/HomeSweetHome-backend) | HomeSweetHome Backend |
 
-<br/>
-
 ## 👨‍💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
