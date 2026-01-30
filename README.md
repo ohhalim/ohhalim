@@ -2,7 +2,7 @@
 
 # 👋 Welcome My Backend GitHub!
 
-### *"If you try, you don't get stressed. Only actions change the reality"*
+### *"A small try eases stress. Only action changes reality"*
 
 ## 🚀 Runing Projects
 
