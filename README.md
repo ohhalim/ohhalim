@@ -1,21 +1,41 @@
-## Taking action relieves stress. Only action creates change in the real world.
-## Project
+<div align="center">
 
-- [MIDI 데이터 딥러닝 모델 art-tatum's solo Fine-tuning](https://github.com/ohhalim/fine_tuning_art-tatum_midi_solo)
-- [이커머스 플랫폼 커뮤니티 도메인 구현](https://github.com/PRF-JAKODH/HomeSweetHome-backend)
+# 👋 Welcome My Backend GitHub!
 
+### *"If you try, you don't get stressed. Only actions change the reality"*
 
-<!--
-**ohhalim/ohhalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+| Project | Description |
+|:-------:|:-----------:|
+| [MIDI 딥러닝 모델](https://github.com/ohhalim/fine_tuning_art-tatum_midi_solo) | Art Tatum's Solo Fine-tuning |
+| [이커머스 플랫폼](https://github.com/PRF-JAKODH/HomeSweetHome-backend) | HomeSweetHome Backend |
+
+<br/>
+
+---
+
+## 👨‍💻 Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ohhalim&show_icons=true&theme=radical" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohhalim&layout=compact&theme=radical" height="150"/>
+
+</div>
