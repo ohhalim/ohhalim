@@ -5,8 +5,9 @@
 ### *"A small try eases stress. Only action changes reality"*
 
 ## 🚀 Runing Projects
-| [MIDI 딥러닝 모델](https://github.com/ohhalim/fine_tuning_art-tatum_midi_solo) | Art Tatum's Solo Fine-tuning |
-| [이커머스 플랫폼](https://github.com/PRF-JAKODH/HomeSweetHome-backend) | HomeSweetHome Backend |
+[MIDI 딥러닝 모델](https://github.com/ohhalim/fine_tuning_art-tatum_midi_solo) Art Tatum's Solo Fine-tuning 
+
+[이커머스 플랫폼](https://github.com/PRF-JAKODH/HomeSweetHome-backend) HomeSweetHome Backend
 
 ## 👨‍💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
