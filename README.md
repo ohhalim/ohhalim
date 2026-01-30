@@ -1,4 +1,4 @@
-## Life Motto -> Taking action relieves stress. Only action creates change in the real world.
+## Taking action relieves stress. Only action creates change in the real world.
 ## Project
 
 - [MIDI 데이터 딥러닝 모델 art-tatum's solo Fine-tuning](https://github.com/ohhalim/fine_tuning_art-tatum_midi_solo)
