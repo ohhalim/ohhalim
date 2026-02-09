@@ -2,7 +2,7 @@
 
 # 👋 Welcome My Backend GitHub!
 
-### *"Taking action prevents stress. Only action changes reality"*
+### *"Face it Don't avoid it"*
 
 ## 🚀 Runing Projects
 [MIDI 딥러닝 모델 파인튜닝](https://github.com/ohhalim/fine_tuning_art-tatum_midi_solo) Art Tatum's Solo Fine-tuning | [이커머스 플랫폼](https://github.com/PRF-JAKODH/HomeSweetHome-backend) HomeSweetHome Backend
