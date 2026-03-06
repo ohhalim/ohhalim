@@ -2,7 +2,7 @@
 
 # 👋 Welcome My Backend GitHub!
 
-### *"거짓말, 회피하지 않는다"*
+### *"진실되게 말하고 회피없이 직면하자"*
 
 ## 🚀 Runing Projects
 [MIDI 딥러닝 모델 파인튜닝](https://github.com/ohhalim/fine_tuning_art-tatum_midi_solo) Art Tatum's Solo Fine-tuning | [이커머스 플랫폼](https://github.com/PRF-JAKODH/HomeSweetHome-backend) HomeSweetHome Backend
