@@ -1,8 +1,8 @@
 <div align="center">
 
 ## 🚀 Runing Projects
-- [MIDI 딥러닝 모델 파인튜닝](https://github.com/ohhalim/fine_tuning_art-tatum_midi_solo) Art Tatum's Solo Fine-tuning | [이커머스 플랫폼](https://github.com/PRF-JAKODH/HomeSweetHome-backend) HomeSweetHome Backend
-- [디퓨전 실시간 솔로 생성모델](https://github.com/ohhalim/live-music-diffusion-models) Live Music Diffusion Models | [암호화폐 거래소](https://github.com/ohhalim/CoinFlow) CoinFlow Backend
+[이커머스 플랫폼](https://github.com/PRF-JAKODH/HomeSweetHome-backend) HomeSweetHome Backend 
+[암호화폐 거래소](https://github.com/ohhalim/CoinFlow) CoinFlow Backend
 
 
 ## 👨‍💻 Tech Stack
